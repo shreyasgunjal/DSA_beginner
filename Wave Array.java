@@ -26,7 +26,7 @@ class Solution {
         
         Solution obj = new Solution();
         obj.convertToWave(n, a);
-        // Assuming `convertToWave` method returns the modified array `a`
+       
         for (int i = 0; i < n; i++) {
             System.out.print(a[i] + " ");
         }
